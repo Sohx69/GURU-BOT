@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner = [
   ['918984257480', '𝐒𝚯𝚮𝚫𝚴', true],
-  ['918984257480', 'ASHU', true], 
+  ['918010431346', '𝐷𝛯𝛻𝛪𝐿', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['918984257480','918984257480'] 
+global.mods = ['918984257480','918010431346'] 
 global.prems = ['918984257480', '918010431346', '919556439219']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
