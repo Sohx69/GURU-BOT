@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918984257480', 'ASHU', true],
+  ['918984257480', '𝐒𝚯𝚮𝚫𝚴', true],
   ['918984257480', 'ASHU', true], 
   [''] 
 ] //Number of owners
 
 global.mods = ['918984257480','918984257480'] 
-global.prems = ['918984257480', '918984257480', '919556439219']
+global.prems = ['918984257480', '918010431346', '919556439219']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,11 +47,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝐷𝑅𝛥𝛫𝛯𝛮'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = 'SOHU<3' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.packname = '𝐷𝑅𝛥𝛫𝛯𝛮' 
+global.author = '𝐒𝚯𝚮𝚫𝚴<3' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/.Sohx._o\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
 global.fgyt = 'https://youtube.com/@Asliguru'
