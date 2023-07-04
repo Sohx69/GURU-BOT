@@ -55,7 +55,6 @@ let str = `
 ║╭──────────────
 ║├⫹⫺ *Owner :* 𝑆𝛩𝛨𝛥𝛮
 ║├⫹⫺ *Number:* 918984257480
-║├⫹⫺ *${conn.user.jid == global.conn.user.jid ? '' : `Jadibot de :* https://wa.me/${global.conn.user.jid.split`@`[0]}`) || 'Bot Ofc :* wa.me/919556439219'}
 ║├⫹⫺ *Prefix :* ${usedPrefix}
 ║├⫹⫺ *Active Time:* ${uptime}
 ║├⫹⫺ *Database :* ${rtotalreg} FROM ${totalreg} 
