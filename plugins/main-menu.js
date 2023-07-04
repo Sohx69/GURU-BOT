@@ -57,7 +57,8 @@ let str = `
 ║├⫹⫺ *Number:* 918984257480
 ║├⫹⫺ *Prefix :* ${usedPrefix}
 ║├⫹⫺ *Active Time:* ${uptime}
-║├⫹⫺ *Database :* ${rtotalreg} FROM ${totalreg} 
+║├⫹⫺ *Database :* ${rtotalreg} FROM ${totaluser} 
+║├⫹⫺ *Total Users :* ${totaluser}
 ║╰────────────── 
 ╚══════════════════⋆
 
